@@ -1,6 +1,8 @@
 # test_dev
+Repo original: https://github.com/fjrodl/test_dev.git  
 
-Repositorio inicial para crear workflows de GitHub. 
+Autor: Iker Rodríguez González  
+Repositorio inicial para probar workflows de GitHub.  
 
 [![Pylint](https://github.com/fjrodl/test_dev/actions/workflows/pylint.yml/badge.svg)](https://github.com/fjrodl/test_dev/actions/workflows/pylint.yml)
 
